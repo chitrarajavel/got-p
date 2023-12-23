@@ -25,3 +25,7 @@ Formik: Used for taking care of fields state and values of signup form
 Yup: Used for signup input validation
 BootStrap: Used for styling login and signup
 Jest: Used for testing
+
+# Deployed Page:
+
+https://chitrarajavel.github.io/got-p/
