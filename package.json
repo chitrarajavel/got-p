@@ -1,4 +1,5 @@
 {
+    "homepage": "https://chitrarajavel.github.io/got-p",
     "name": "game-pf-thrones",
     "version": "0.1.0",
     "private": true,
@@ -22,6 +23,8 @@
         "yup-password": "^0.2.2"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
@@ -49,5 +52,8 @@
         "moduleNameMapper": {
             "axios": "axios/dist/node/axios.cjs"
         }
+    },
+    "devDependencies": {
+        "gh-pages": "^6.1.1"
     }
 }

@@ -1,6 +1,9 @@
+/**
+ * Splits URL and returns the last value of the array that contains the id needed
+ */
 function getIdFromURL(url) {
-    let charidArr = url.split('/');
-    return charidArr[charidArr.length - 1];
+    let urlArr = url.split('/');
+    return urlArr[urlArr.length - 1];
 }
 
 export {getIdFromURL};
