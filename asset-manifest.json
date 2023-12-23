@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/got-p/static/css/main.23195ff6.css",
+    "main.js": "/got-p/static/js/main.2e746e1e.js",
+    "static/media/Signup.jpeg": "/got-p/static/media/Signup.516dde442d9cf37954da.jpeg",
+    "static/media/Frontpage.jpeg": "/got-p/static/media/Frontpage.b104fa6b88b1b9dfcc3a.jpeg",
+    "static/media/Login.jpeg": "/got-p/static/media/Login.23e3f71c2165371d0b4d.jpeg",
+    "static/media/CharacterDetails.png": "/got-p/static/media/CharacterDetails.39faa6d4aba4daf15205.png",
+    "static/media/BookDetails.png": "/got-p/static/media/BookDetails.404357e5a32c2f74f8d5.png",
+    "static/media/978-0553108033.jpg": "/got-p/static/media/978-0553108033.e31c9614e1a139a51153.jpg",
+    "static/media/978-0345533487.jpg": "/got-p/static/media/978-0345533487.f669a71da9563de55b3f.jpg",
+    "static/media/978-0765360267.jpg": "/got-p/static/media/978-0765360267.2b1accd3f4709ca13758.jpg",
+    "static/media/978-0785126508.jpg": "/got-p/static/media/978-0785126508.eadbcdb89e199f767012.jpg",
+    "static/media/978-0553106633.jpg": "/got-p/static/media/978-0553106633.9d7d8fb8d3e8aaa65375.jpg",
+    "static/media/978-0345537263.jpg": "/got-p/static/media/978-0345537263.7bc560a095172c1852ac.jpg",
+    "static/media/978-0553805444.jpg": "/got-p/static/media/978-0553805444.143fb03d4079acd02ea4.jpg",
+    "static/media/978-0553801507.jpg": "/got-p/static/media/978-0553801507.ebea526de0b1ff89c518.jpg",
+    "static/media/978-0553801477.jpg": "/got-p/static/media/978-0553801477.6d4f34ebdc6b2529960a.jpg",
+    "static/media/978-0976401100.jpg": "/got-p/static/media/978-0976401100.42eaf1473c0a2055589e.jpg",
+    "static/media/978-0765332066.jpg": "/got-p/static/media/978-0765332066.9d207b1589b0534b97a7.jpg",
+    "static/media/978-0553103540.jpg": "/got-p/static/media/978-0553103540.a699239d934f7b5ba51a.jpg",
+    "static/media/Female.png": "/got-p/static/media/Female.2fe23fcdefbb94e5dde5.png",
+    "static/media/Male.png": "/got-p/static/media/Male.a9dc1ac5994fd15502b9.png",
+    "static/media/RedHeart.png": "/got-p/static/media/RedHeart.556c78a5a9b89d6b2eeb.png",
+    "index.html": "/got-p/index.html",
+    "main.23195ff6.css.map": "/got-p/static/css/main.23195ff6.css.map",
+    "main.2e746e1e.js.map": "/got-p/static/js/main.2e746e1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23195ff6.css",
+    "static/js/main.2e746e1e.js"
+  ]
+}
