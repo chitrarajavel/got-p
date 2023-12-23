@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+h1 {
+    padding-top: 60px;
+}
+
+.CharacterDetails-wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Acme;
+}
+.CharacterDetails {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-image: url('../assets/images/CharacterDetails.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50rem;
+    height: 35rem;
+    min-width: 50rem;
+    min-height: 35rem;
+}
+
+.CharacterDetails-img-container {
+    width: 21rem;
+    height: 15rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.CharacterDetails-img {
+    width: 80%;
+    height: 100%;
+    opacity: 50%;
+}
+
+.CharacterDetails-lc,
+.CharacterDetails-rc {
+    color: black;
+    padding-top: 4rem;
+    padding-left: 2rem;
+}
+
+.CharacterDetails-lc p {
+    margin: 0px;
+}
+.Link-Style {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.Link-Style:hover {
+    background-color: rgba(235, 191, 13, 0.5);
+}
+.BookList-container {
+    width: 20rem;
+    height: 20rem;
+}
+.CharacterDetails-title {
+    font-weight: bold;
+    font-size: medium;
+    padding-right: 1rem;
+}
+
+.CharacterDetails-fav-img-c {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+
+.CharacterDetails-fav-img-c img {
+    margin: 0.8rem;
+    cursor: pointer;
+}

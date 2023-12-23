@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+.BookDetails-wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Acme;
+}
+
+.BookDetails-title {
+    padding-top: 60px;
+    text-align: center;
+    padding-right: 1rem;
+}
+
+.BookDetails {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-image: url('../assets/images/BookDetails.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50rem;
+    height: 35rem;
+    min-width: 50rem;
+    min-height: 35rem;
+}
+
+.BookDetails-lc,
+.BookDetails-rc {
+    color: black;
+}
+
+.BookDetails-lc {
+    padding-top: 3rem;
+    padding-left: 3.5rem;
+}
+.BookDetails-rc {
+    padding-top: 3rem;
+    padding-left: 0.5rem;
+}
+.BookDetails-author {
+    margin-left: 4rem;
+}
+
+.BookDetails-rc select {
+    width: 20rem;
+    background-color: transparent;
+    border-style: none;
+    scrollbar-color: pink lightblue;
+}
+
+.BookDetails-rc select::-webkit-scrollbar {
+    width: 1vw;
+}
+
+.BookDetails-rc select::-webkit-scrollbar-thumb {
+    background-color: rgba(182, 102, 16, 0.5);
+}
+
+.BookDetails-rc select::-webkit-scrollbar-track {
+    background-color: rgba(235, 191, 13, 0.5);
+}
+
+.BookDetails-rc select:focus {
+    border-style: none;
+    outline: none;
+}
+
+.BookDetails-rc select option {
+    background-color: transparent;
+    cursor: pointer;
+}
+.BookDetails-rc select option:hover {
+    background-color: rgba(235, 191, 13, 0.5);
+}

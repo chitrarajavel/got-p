@@ -1,0 +1,26 @@
+.Login-Wrapper {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+}
+
+.left-container,
+.right-container {
+    background-image: url('../assets/images/Login.jpeg');
+    background-size: cover;
+    z-index: -1;
+}
+.center-container {
+    display: flex;
+    margin: auto;
+}
+.Login {
+    width: 300px;
+    height: 320px;
+}
+.right-container {
+    transform: scaleX(-1);
+}
+.Login-Form-Group {
+    margin-top: 1rem;
+}

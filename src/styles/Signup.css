@@ -1,0 +1,9 @@
+.Signup-Wrapper {
+    height: 100vh;
+    background-image: url('../assets/images/Signup.jpeg');
+    background-size: cover;
+}
+
+.Signup {
+    width: 500px;
+}
