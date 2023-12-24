@@ -4,7 +4,7 @@ The Game of Thrones Fan Site is for fans looking for more information on the fam
 
 # Project Details:
 
-https://drive.google.com/drive/folders/1rWz9IsiL5b_tCsFslwWw3-MARokUAVpe
+https://drive.google.com/file/d/1uiADuWgRbtsbOMt4EKeFxlJhBRPxcc9N/view?usp=sharing
 
 # API
 
