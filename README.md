@@ -12,10 +12,10 @@ API Main Link: https://apilist.fun/api/an-api-of-ice-and-fire
 
 # APIs used:
 
-Books: https://anapioficeandfire.com/api/books
+Books: https://anapioficeandfire.com/api/books and 
 https://anapioficeandfire.com/api/books/{id}
 
-Characters: https://anapioficeandfire.com/api/characters
+Characters: https://anapioficeandfire.com/api/characters and 
 https://anapioficeandfire.com/api/characters/{id}
 
 # External Libraries/Packages Used:
